@@ -1,3 +1,9 @@
+to get to work with json server (fake back end)
+
+run npm run server in terminal (seperate to npm start in other terminal window)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
